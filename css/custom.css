@@ -1,0 +1,10 @@
+body{background-image:  url("../img/desert.jpg")};
+.container{font-size: 12; font-family: arial; font-style: oblique;
+text-align: center;}
+.card-block{font-size: 15;}
+#quote{font-size:25;}
+p, h4, h3,li, small, a{ 
+	background-color: rgba(255,255,255,0.7); text-align: center;}
+.cardfooter{text-align: center;}
+.margin{margin-bottom: 20px; margin-top: 30px;}
+
